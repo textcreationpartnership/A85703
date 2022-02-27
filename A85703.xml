@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is a true copy of a letter, that Prince Griffith lately writ to the Lord Windsor; wherein the passages that happened betwixt them in Flaunders are truely related.</title>
+            <author>Griffith, John, of Llyne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85703</idno>
+            <idno type="STC">Wing G2005</idno>
+            <idno type="STC">Thomason E590_2</idno>
+            <idno type="STC">ESTC R206325</idno>
+            <idno type="EEBO-CITATION">99865497</idno>
+            <idno type="PROQUEST">99865497</idno>
+            <idno type="VID">117742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is a true copy of a letter, that Prince Griffith lately writ to the Lord Windsor; wherein the passages that happened betwixt them in Flaunders are truely related.</title>
+                  <author>Griffith, John, of Llyne.</author>
+                  <author>Griffith, John, 1622?-1700, attributed name.</author>
+                  <author>Marbles, Francis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Sometimes attributed, undoubtedly in error, to John Griffith (1622?-1700), the general Baptist minister.</note>
+                  <note>Pp. 6-8 contains a passage commenting on Lord Windsor by Francis Marbles.</note>
+                  <note>Annotation on Thomason copy: "Jan: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plymouth, Thomas Windsor Windsor, --  Earl of, 1627?-1687.</term>
+               <term>Dueling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:117742:1"/>
+            <head>THIS IS A TRUE COPY OF A LETTER, <hi>THAT</hi> PRINCE <hi>GRIFFITH</hi> Lately writ to the LORD <hi>WINDSOR</hi>; Wherein the Paſſages that happened betwixt them in FLAUNDERS are truely Related.</head>
+            <opener>
+               <salute>My Lord WINDSOR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received a Letter lately from you, wherein you are pleaſed to commend the goodnes of my horſe which to your own knowledg was a ſtumbler, hard<g ref="char:EOLhyphen"/>mouth'd, and unmannaged, or elſe you had bought him of my Second, Colonell <hi>Apſley,</hi> as you were a running out of Flaunders: Indeed my Lord I can compare him to nothing more like, then to your Lordſhip, eſpecially when you are pouder'd; for the Horſe was indifferent handſome, although un<g ref="char:EOLhyphen"/>proper for the uſe I put him to, ſo indeed I heare that your Lordſhip now and then, makes a pritry ſhew before Ladyes, although you are as unproper for their ſervice, as my Horſe was to fight upon, for certainely you have not the impudence to deny, That your Privy Members, are moſt commonly ſupported with a Truſs, that you are
+<pb n="2" facs="tcp:117742:2"/>
+scarceable (at any time) for to afford a Lady a Bout: And for your Courage I am reſolved alſo to unmaske it, although you imagined to ſupport your reputation by haſtuing into <hi>England</hi> (whither you knew I could not come for the preſent) and there, as it ſeemes, cryed up your ſelfe, for a Gallant Stout Man, when God and your owne conſcience can tell you, that there lives not a more Treacherous, nor a more Lying Cowardly Villaine on the face of the Earth, then you are.</p>
+            <p>This, <hi>Windſor,</hi> is the true Caracter of you, and no more then what I <hi>John Griffith</hi> will juſt ſie to your teeth, whenſoever, you ſhall dare to queſt on it; which happy houre, I extreamely long for, becauſe I am confident that I shall clearely make in appeare to all the World, that you deſerve rather the Title of a Treacherous Coward, then to be eſteemed a Perſon of a reall courage, or elſe you cou'd not be ſo unworthy, as to leave the Field, as you did, without drawing of blood, when you ſaw your Second (who was a gallant Man) hurt to your face, and for your ſake, and whole death me thinks you ſhould ſtill reſent; O can there be a greater baſeneſſe then this. Yet you had the impudence to give out, That you had me at your mercy, and thereby thought, as it ſeemes, that that falſe report, would expiate your baſeneſſe, in ſuffering your Freind to be hurt, without ſeeking the blood of him thus did it: Confeſſe truely <hi>Windſor,</hi> Waſt thou not ſo frighted at that inſtant, thus thou hadſt not thy wits about thee; I beleeve it really; for no man but a Knave, a Foole, and a Coward, would bring a Freind out of <hi>England,</hi> on purpoſe for to ſet, and leave him in a Trap of ruine, as thou didſt poore <hi>Goff,</hi> without endeavouring any other way (then by Lying) for to revenge the injury he received: Nay more, did you not likewiſe deny in the Feild to juſtifie either the Ladyes actions, or honour; nay did you not make your braggs in Flaunders, that you intended never to Marry her, bus onely to make a Whore of her; beſides you ſhewed a note under her owne hand (as you ſayd). the which ſhee had given you, wherein ſhe did binde her ſelfe to Marry you, if ſo be you did returne within the ſpace of three moneths; ſuppoſe ſuch a thing bad been, were not you a baſe fellow to publiſh it, ſhee having then not given you the leaſt occaſion of diſtaſt, which might have moved you to divalge thoſe ſecrets, that had paſsed betwixt her and you.</p>
+            <p>And when perſons of Honour ſhall rightly underſtand all theſe Particulars of you; doe not you beleeve that they will deteſt you as I doe, then conſider with your ſelfe to how meane and miſerable a condition hath your juggling and lying brought you to, yet to deale truely with you, it is no more then what ſo baſe a wretch as you are, doth juſtly deſerve.</p>
+            <p>And as for the Lady, although ſhe has very much diſobliged me, yet I ſhould be ſorry if ſhe proved ſo unfortunate, as to ſet a reall eſteem on your unworthy Perſon; I can juſtly terme you no otherwiſe, eſpecially when I conſider how cunningly you lay at the catch with me, during the time of our difference; and how unlike a Gen<g ref="char:EOLhyphen"/>tleman you dealt with me: for firſt you refuſed to meete in <hi>France,</hi> and appointed me for to come into <hi>Flaunders,</hi> which I did accordingly; but you after two dayes ſtay at <hi>Bruſſells</hi> (which was the place where we were by your appointment for to meet at) were running backe for <hi>England,</hi> as I have under your owne hand to ſhow, and afterwards I having ſent for you a back from <hi>Bruiggen</hi> Miniſtry came to waite on you as ſoone as I heard that you were returned again to <hi>Bruſſelſs,</hi> and then I could you that my Bills of Exchange were not yet come; but that I did expect them dayly; and that my being in a ſtrange Country, made me uncapable (for the pre<g ref="char:EOLhyphen"/>ſent) of fitting my ſelfe for to give you ſatisfaction: But howſoever I hearing for a
+<pb n="3" facs="tcp:117742:2"/>
+certaine, that you had brought a couple of Horſes, to ſhew you that I intended not to delay you, I told you then, that if you would lend me one of them, that I would fight with you either that night, or the next morning, which you pleaſed, but you refuſed to doe either.</p>
+            <p>Then I told you, that although you would not lend me a Horſe, that I would pre<g ref="char:EOLhyphen"/>ſent you with a couple of Poaſt Horſes, and that you ſhould take your choiſe, but that did ſo diſpleaſe you, that you told me that you were not bound to caſt away your life, although I were content for to doe it: Next I offered to fight with you on ſoo-, with a caſe of Piſtolls, but your want of courage made you both diſlike it, and re<g ref="char:EOLhyphen"/>fuſe for to doe it.</p>
+            <p>Laſtly, I offered to fight with you with a caſe of Piſtolls in a little Waggon with two Maſtiffs before me, ſuch as they dayly uſe at <hi>Bruſſells,</hi> and that you ſhould take ano<g ref="char:EOLhyphen"/>ther; but that way of fighting you did alſo diſlike; and in ſhort, you told me, that you had provided a couple of Horſes for your ſelfe, and that you being challenged were to appoint the time, place, and mmner of fighting, and that if I did not meet you within three or foure dayes, that then you knew what courſe to take; ſo wee parted, and that night I received a Bill of Exchange of Fifty Pounds S:erling, for to be payed me at <hi>Antwerpe,</hi> and going thither to receive it, I unfortunately lite upon the Nagg upon which I fought, I may juſtly rerme him ſo, for he proved very hard mouthed, and unmanaged; and the onely reaſon that made me buy him, was, that he was not afraid of the noyſe of a Piſtoll; ſo borrowing another Horſe of a Freind for my Second, I inſtantly came to waite on you, and I did (you cannot de<g ref="char:EOLhyphen"/>nie it) obſerve your deſires in every particular; nay, I did not refuſe to meet you in the very Feild you appointed, although you refuſed to fight with me any where elſe, or in any other Countrey; and indeed you had a great deale of reaſon for it, as it appeared afterwards, for in another place you might not have had the conve<g ref="char:EOLhyphen"/>nience of bringing a Boat full of men, and of laying an Ambuſcado all night long in the Dirches, as you did, which was contrary to your promiſe, and the agreement which you made with my Second, which was not to have brought any body but your Second, Leivtenant Colonell <hi>Goff,</hi> within ſix miles of the place where we were to fight at; and for my owne particular, I doe verily beleeve, that you did your beſt to perſwade thoſe Perſons you brought along with you (if they would have been ſo baſe (to have deſtroyed me, either in the Feild, or at leaſt to have ſtrops me, in caſe you had fallen, for certainely elſe you would not have appointed ſuch a cloſe place as that was to fight in.</p>
+            <p>For firſt, on the one ſide of the Feild there was ſuch high Hedges, broad Ditches, and Woods, that it was in poſſible to have gotten away, and on the other ſide, a broad River, that was not paſſable without a Boat; and by that time we had done fighting, all the Boats were conveyed on the further ſide of the River, ſo that in two Miles riding, I could hardly get one to carry me over the Water; although when I came into the Feild, ſeverall Boats were on that ſide the River we ſought on; nay more men that, the way out of the Feild was narrow, and ſo full of great Trees, and ſuch broad Ditches on both ſides of it, as that one man might eaſily have ſtayed me; but in caſe they had miſt me there, I had no other way to ſave my ſelfe but cloſe to the River ſide, where I could hardly ride halfe a Mile on either hand, but that I ſhould be neceſſitated to paſſe over a Bridge, where two men might eaſily have ſtopt me; beſides, cloſe to each of the Bridges was a Houſe, where I ſaw men like Soul<g ref="char:EOLhyphen"/>diers: But your ſaying to my Second, that you did feare the riſing of the Boares, or
+<pb n="4" facs="tcp:117742:3"/>
+Countrey men, I muſt confeſſe did hinder my curioſity of fiſting out your Villany then, although I have repented my ſelfe a thouſand times ſince, that I did not que<g ref="char:EOLhyphen"/>ſtion the Fellowes what they were, for I doe verily beleeve that they were ſet there by your order, and if you had not had ſome baſe deſigne upon me, why ſhould you entice me into ſuch a Trapp as that was, rather then to give me a meeting in an o<g ref="char:EOLhyphen"/>pen Countrey, there being large Heathes farre neerer thoſe villages wee lodged in the night before, then the Feild was the we mett in the next morning, and I am ſure a great deale more convenient for fighting a Horſeback; and <hi>Windſor,</hi> if thou were not given to Lying, thou wouldſt not deny, but that this is a true deſcription of the place where we ſought.</p>
+            <p>Then let the World judge if the carriage of this action be juſtifiable in a Man that pretends to have either courage or honour: And indeed I cannot much blame you to refuſe reading my Letters, becauſe it ſeemes you deſire not to be put in mind of your baſeneſſe and treachery: Can you forget how you came ſneaking into the Field in a white Capp, as if you had been going to the Gallows, and how like a Stinkard, as you are, you refuſed for to pluck off your Doubler, and that for all your managed Horſe, you durſt not come within foure or five yards of me, but Carricoled round about me, knowing it your ſureſt play againſt me, being upon an unready Horſe; yet for all this advantage you diſcharged both your Piſtolls at ſo great a diſtance from me, that you did neither touch me nor my Horſe; howſoever you cannot de<g ref="char:EOLhyphen"/>ny, but that both my Piſtolls did ſome execution, for with the firſt, I ſhott your Horſe through the neck, and with the laſt I frighted you ſo (after both your Piſtolls were diſcharged) that you rid cloſe to your Second, as it were for Protection; and indeed I finding my Horſe ſo bad, that I could not with all the Art or Skill I had, come cloſe to you, by reaſon of the quicke turning too and froe of your Horſe's I muſt ingeniouſly confeſſe , that it put me ſo into paſſion, that I reſolved to venter my Piſtoll at you at a diſtance, which it ſeemes narrowly miſt you and (much con<g ref="char:EOLhyphen"/>trary to my intention, or deſire) moſt unfortunately kill'd your Second; which ſe<g ref="char:EOLhyphen"/>riouſly greives me to the very Soule, that ſo gallant a Man as he was ſhould ſuffer, and that ſuch a Foiſt as you are, ſhould eſcape.</p>
+            <p>Beſides, when we came to the Sword, you daring not to come up to me, rid ſtill round about me, knowing the great advantage you had of mee, by reaſon of the goodneſſe of your Horſe; and indeed I perceiving of it too, clapt Spurrs to my Horſe, thinking to come cloſe to you at laſt, but miſſing both you and your Horſe, by reaſon of a quick ſome that he nude, my Horſe being very ill mouthed, ranne a<g ref="char:EOLhyphen"/>way with me, which advantage you did not neglect, but followed me in the reare; yet at ſuch a diſtance, that you were not within five or ſix yards of me; but how<g ref="char:EOLhyphen"/>ſoever, I finding my ſelfe not able, either to ſtopp, or turne my Horſe, rather then to ride away, flung my ſelfe out of the Saddle, and falling ſidelong on the ground, I inſtantly ſtood up againe, with my Sword in my hand, calling ſeverall times to you, My Lord, if you are a gallant Man, light; ſince my Horſe (as you ſee) is a Jade, and that both you Piſtolls and mine are diſcharged; ſhew your gallantly if you dare, and let us fight it out a Foote, with our Swords, but you moſt cowardly re<g ref="char:EOLhyphen"/>fuſed to doe it, although your Second lay bleeding before you, and like a baſe fellow left the Feild, when your Second was even ready to ſwound, and had not my Second and I taken care of him, he might inſtantly have bled to death; ſo little did you look af<g ref="char:EOLhyphen"/>ter him; And for your charging of mee, for bringing Mr <hi>Rennolds</hi> behind me a Horſ<g ref="char:EOLhyphen"/>back out of the Feild: My anſwer to it, is this:</p>
+            <p>
+               <pb n="5" facs="tcp:117742:3"/>That I did it, firſt to ſhew you that I was not ſo timerous then, as you were; and next becauſe the Boat you brought was almost gone out of ſight, beſides one of Mr <hi>Rennolds</hi> ditch Companions, was run away with his Horſe, ſo that not onely in civility, but also in gratitude I was obliged for to doe it; for whilſt I was reaching a ſhirt of my owne for to bind up Leivtenant Colonell <hi>Goffs</hi> hurt, my Horſe ſlipt the Bridle out of my hand, and run away, and Mr <hi>Rennolds</hi> brought him to mee againe, ſo he ſaving mee from goding a foote, I thought my ſelfe bound to doe him the like courteſie.</p>
+            <p>And for my beeing at the mercy of your Horſes feete, that is as true as my de<g ref="char:EOLhyphen"/>manding my life of you, or your ſhouting, or your hurting me in the back, which di<g ref="char:EOLhyphen"/>verſe (that have ſeene me ſince we fought) will juſtifie you a Lyer as well as my ſelfe; and none but ſuch a Bastandly Raſcall as you are, could have the confidence to report ſo damnable a Lie, there being (as thou knoweſt it well enough <hi>Windſor</hi>) not the leaſt tittle of it true.</p>
+            <p>And as for my taking up your Piſtols in the Feild, which afterwards you were afraid to receive out of my hands, although they were uncharged; the reaſon why I was ſo civill to you, was the hopes I had thereby to ſtay you ſomthing longer in Flanders: but your cunning and your Cowardly diſpoſition together, haltned you for England the very ſame day we Fought, although it was Sunday, and your poore Second lying deſperatly wounded; yet no conſideration whatſoever, it ſeemes, could ſtay your journey a day, which methinks did ſhew too pannick a feare in a perſon that pretends to have ſo much courage, but the cenſure of it I ſhall willingly leave to Gallant men, that ſhall reade this true Relation of your actions: And for my owne particuler all the injury that I received by your ſuddaine departure was, that a Servant of mine miſt delivering you a Letter, although I ſent it the next morning betimes: It is the Letter I meane, that I ſent you laſt into England, which was much to the ſame effect than this is off, and not farr different from the matter and phraſe, yet you were pleſed eaſily to diſgeſt it, and perhaps you may doe this too; but in caſe you doe it, I ſhall trouble you no more with my Letters; but I ſhall (as I have a ſoule to ſave) poaſt you all over Chriſtendome for a lying, cheating, and a treacherous Coward: And doe not thinke that although you have crept into the Title of a Lord, that it ſhall pre<g ref="char:EOLhyphen"/>ſerve your Reputation; No <hi>Thomas Hickman,</hi> I ſhall make thy actions appeare to all the World to be baſe, and Cowardly, and thou ſcarce a Gentleman by the Father but rather got by ſome ſnivling Groome or other, or elſe thy courage would not wholly depend (as it doth) upon thy Horſe and Horſeman ſhip, and indeede if thou hadſt not meane blood in thee, it were impoſſible to be ſo unworthy, baſe, and treacherous as thou haſt been in the whole carriage of the difference betwixt thee and mee.</p>
+            <p>All this thy conſcience will tell thee to be moſt true, then conſider with thy ſelfe, if thou are not one of the unworthieſt creatures breathing; and if thou doubts it, come to me, for thou knoweſt that I dare not for the preſent come into <hi>England,</hi> and I will juſtifie it to thy teeth: Beſides, I will (upon my Salvation) give thee faire play for they life, although thou ſoughteſt mine by treachery, yet thou ſhalt finde that thou haſt to doe with a Gentleman that deteſts ſoule actions, as much as he doth hate thy Perſon.</p>
+            <p>Deceive me once poore <hi>Hickman,</hi> and prove Gallant; but I feare thee extreamly, for I know thy baſeneſſe farre exceeds thy courage; yet I am come to <hi>Callis</hi> a pur<g ref="char:EOLhyphen"/>poſe to try and expect thee, if thou dareſt come over, I will fight with thee, if not, I will Poaſt thee, and this is the Reſolution of him that reſolves to make thee an
+<pb n="6" facs="tcp:117742:4"/>
+example to all halfe ſpirited fellowes of evermore undertaking the Title of a Ladies Champion, <hi>Windſor,</hi> or <hi>Hickman</hi>; thou knoweſt how narrowly once thou eſcapeſt my fingers, which makes me doubt thy comming again: I pray thee, if thou haſt the blood of a Gentleman, and not altogether of a Mechannick in thee, prove Gallant at laſt, and let me ſee thee. I am at Callis where I intend to ſtay, untill I am aſſured that thou darſt not come over, for ſhame be not ſo baſe and cowardly, as to refuſe mee a vifit, the voyage is nothing, it is not above two dayes journey from London, fie, ſom<g ref="char:EOLhyphen"/>mon thy Spirits together, rather then to be Poaſted, for (upon my ſaith) I am re<g ref="char:EOLhyphen"/>ſolved to doe it, and to make thy perſon, and thy Pintle ſo ridiculous, that all Gallant men, and Ladies, ſhall not onely ſcorne and laugh at thee; but likewise point at thee, as the greateſt cheate of courage and Lecherrie that ever was borne, and a leffe re<g ref="char:EOLhyphen"/>venge aſſure thy ſelfe ſhall not ſastisfie me.</p>
+            <closer>
+               <signed>John Griffith.</signed>
+               <dateline>From Callis in France, <date>Octob. 22. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="commentary">
+            <p>This Letter (in the preſence of diverſe Perſons of quality) was delivered to the Lord <hi>Windſor,</hi> by Captaine <hi>Francis Marbles,</hi> who came purpoſely of France for to doe it. The Lord <hi>Windſor</hi> received it, but durſt not ſo reſent it, as to ſend Prince <hi>Griffith</hi> a Challenge, whereupon Prince <hi>Griffith</hi> having notice of his Lord<g ref="char:EOLhyphen"/>ſhips meanneſſe of ſpirit, did inſtantly ſend to Poaſt him: A juſt re<g ref="char:EOLhyphen"/>ward I aſſure you, for ſo counterfeit a courage as the Lord <hi>Windſor</hi> appeares to have by this action.</p>
+            <p>O wonderfull! The like to this, was never heard of before, that your ſo much cryed upp fighting Lord <hi>Windſor,</hi> ſhould thus prove for to be but a Dwighill Cock at Laſt: For ſhame, away with him, away with him, to the Beare-Garden; there he may finde a fit Companion for him to converſe withall, and one that relyes alſo, more upon his Horſe and Horſemanship, then upon his Courage.</p>
+            <q>Finios coronat Opus.</q>
+            <p>
+               <pb n="7" facs="tcp:117742:4"/>THere is a Pamphlet lately ſet forth in Print, called the Lord <hi>Windſors</hi> Vindication, which is ſo full of untruthes, as that the Raſcall that writ it, dares as yell be dam<g ref="char:EOLhyphen"/>ned as to owne it ſo farr, as to ſubſcribe his name to it: By which the World may eaſi<g ref="char:EOLhyphen"/>ly ſee; how unworthy and Cowardly a perſon <hi>Windſor</hi> is, who is forſt to ſupport that little honour he has, by bry bing neceſſious, and Beggarly Pamphlettiers on the one<g ref="char:EOLhyphen"/>ſide, and by maintaining Brothers of the Sword on the otherſide to ſweare up and downe the Tavernes in London, that the Lord <hi>Windſor</hi> is a Gallant ſtout man: When Prince <hi>Griffith</hi> who is ſcarce two dayes journey oft this place, defies him dayly, and offers for to prove him both a notorious Lyer, and a Coward to his Teeth, yet <hi>Wind<g ref="char:EOLhyphen"/>ſor</hi> dares not goe to Callis, to queſtion him for it: Although it is well knowne that Prince <hi>Friffith</hi> cannot (for the preſent) come into England, elſe I am confident that he would Gudgell his Lordſhip to ſome purpoſe, and if he be ſo Valiant, and Prince <hi>Griffith</hi> ſuch a Coward as the Pamphlet deſcribes him to be, why then does not <hi>Windſor</hi> goe and beate him once againe, it being ſo eaſie a thing to doe: It were more (in my opinion) for his Lordſhips Honour, for to undertake it, then to ſtand rayling (as he doth) like a Butterqueane behind his adverſaries back; which I am confident Prince <hi>Griffith</hi> would ſcorne to doe, I meane to word it, had he the ſame libertie of comming into England, that the Lord <hi>Windſor</hi> hath of going into France.</p>
+            <p>Therefore let the World judge, whether it is poſſible that <hi>Windſor</hi> can be a Per<g ref="char:EOLhyphen"/>ſon of a reall courage, ſeeing he doth endure a Poaſting ſo patiently, as not to dare to reſent it otherwiſe, then by hyring ſome meane fellow another, for to write a ſcurrilous lying Pamphlet in his Vindication: A poore revenge I aſſure you for one that pretends to ſo much gallantry.</p>
+            <p>
+               <hi>Windſor,</hi> I pitty thee, for never Fox (<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en he was hunted) uſed more ſhifts for to ſave his life, then thou haſt done to preſerve thy reputation; yet all thy cunning, it ſeemes, will not ſerve thy turne, for Prince <hi>Griffith</hi> is reſolved for to Baffle thee quire; and how to prevent it, I know not, unleſſe thou will be brought at laſt for to acknowledge the truth; that is, that thou wilt confeſſe ingeniouſly, that thou darſt not fight, either with him, or with any body elſe, unleſſe thou art challenged, and then perhaps, thy Horſe and Ambuſcado, may make thee give a man a meeting in the Feild, which otherwiſe thou darſt not doe.</p>
+            <p>And <hi>Windſor</hi> (let me tell thee as a Freind) be not ſo ſimple as to thinke, that either Stories or lyes (without fighting againe) will either ſatisfie the World, or blemiſh Prince <hi>Griffiths</hi> Reputation.</p>
+            <p>No, thou art hugely miſtaken, if thou thinkeſt ſo, for this is not the first Duell (by halfe a ſcore, or more) that Prince <hi>Griffith</hi> hath ſought, and with as Gallant men as any have been of the Engliſh Nation; but I am ſure that this is the firſt, and I doe verily beleeve, that it will be the laſt Duell that ever you will fight, for I per<g ref="char:EOLhyphen"/>ceive (by your ſhifting and voyding to quarrell with Prince <hi>Griffith</hi> againe) that he did ſo frighten you when you ſought that you dare not for your hanging looke him any more in the face, ſo damnable affraid you are of him.</p>
+            <p>And as for the Pamphletiers ſaying, that the Lord <hi>Windſor</hi> gave Prince <hi>Griffith</hi> his life; no man of Hononr and ſenſe, I am ſure, will beleeve, that a man in one breath, ſhall both beg his life, and defie his Enemie, as Prince <hi>Griffith</hi> did the Lord <hi>Windſor</hi>; which the Lord <hi>Windſors</hi> nameleſſe Villaine doth acknowledge himſelfe in his Pamphlet: And as for Prince <hi>Griffiths</hi> being unmounted, his Letter will tell you how it came to paſſe, which you may receive for a truth; nor is it likely that a man
+<pb n="8" facs="tcp:117742:5"/>
+can be throwne out of a great Saddle, when neither his Cloathes nor Body was touch<g ref="char:EOLhyphen"/>ed, either with the Lord <hi>Windſors</hi> Sword or hands, as it can be made appeare to this very houre; nor is it credible that Prince <hi>Griffith</hi> ſhould diſcharge his Piſtoll at Leivtenant Colonell <hi>Goff,</hi> who was but a ſlander by, when he had ſuch a Valiant Ad<g ref="char:EOLhyphen"/>verſary (as the Lord <hi>Windſor</hi> makes himſelfe) for to deale withall.</p>
+            <p>Gentlemen I ſhall trouble you with no more particulars for the preſent, not doubt<g ref="char:EOLhyphen"/>ing but that the Lord <hi>Windſor,</hi> and his Pamphletteirs lying tongues, will betray them ſufficiently in the end, and make them both appeare Perſons ſo contemptible, that they deſerve hereafter, rather the ſcorne, then the anger of any Gallant Man; For what greater baſeneſſe can there be in any man, then to endeavour to injure a Perſon of ſo much honour (as Prince <hi>Griffith</hi> is) by lying, as <hi>Windſor</hi> hath done, when he hath not the courage for to looke Prince <hi>Griffith</hi> in the face.</p>
+            <p>I need not, I beleeve, forbid Gentlemen for to take heed of ſo horrid a Calum<g ref="char:EOLhyphen"/>niator as <hi>Windſor</hi> is, who you may perceive hath ſo utterly loſt the ſenſe of Honour, that he is now become a fit Companion onely for the Hangman; therefore, Take him <hi>Derrick,</hi> Take him <hi>Derrick:</hi> I am ſure thou haſt the conſent of all honeſt and Gallant Men, and eſpecially mine:</p>
+            <closer>
+               <signed>Francis Marbles.</signed>
+               <dateline>
+                  <date>November the 12. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="complaint">
+            <p>This Paper had been publiſhed ſooner, had it not been preven<g ref="char:EOLhyphen"/>ted at the Preſſe, by three eminent Knaves; The Lord <hi>Windſor,</hi> the Knave of Clubs, and the Knave of Spades; which two laſt, are reſolved not to hate his Lordſhip an ace, either for Courage or Ho<g ref="char:EOLhyphen"/>neſty. I beleeve old <hi>Hickman, Windſors</hi> Father, got them all three, for they doe reſemble one another extreamely, in Humour, Con<g ref="char:EOLhyphen"/>dition, and Gallantry.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
